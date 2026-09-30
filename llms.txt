@@ -1,0 +1,12 @@
+# Climax Coaches
+
+> Climax Coaches is a Kenyan intercity bus company. Book Climax bus and Climax coach tickets online from Nairobi to Kisii, Busia, Malaba, Kisumu, Kitale, Kakamega and more. Pay with M-Pesa and receive your instant ticket on WhatsApp.
+
+## Pages
+- [Book Climax bus online](https://goclimaxbus.online/): search buses, choose seats, confirm on WhatsApp
+- [Routes and fares](https://goclimaxbus.online/routes.html): all Nairobi routes with one-way fares
+- [Nairobi to Kisii](https://goclimaxbus.online/nairobi-to-kisii.html)
+- [Nairobi to Busia](https://goclimaxbus.online/nairobi-to-busia.html)
+- [Nairobi to Malaba](https://goclimaxbus.online/nairobi-to-malaba.html)
+- [About](https://goclimaxbus.online/about.html)
+- [Contact](https://goclimaxbus.online/contact.html): WhatsApp and phone +254 107 524689
